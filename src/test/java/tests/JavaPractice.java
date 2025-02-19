@@ -15,6 +15,7 @@ public class JavaPractice {
         System.out.println(cal.sub(40,90,100));
 
 
+        System.out.println(cal.sub(50,4));
 
 
 
