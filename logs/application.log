@@ -1,0 +1,267 @@
+[2025-02-14 19:30:53] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-14 19:30:53] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-14 19:30:53] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-14 19:30:53] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-14 19:30:53] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-14 19:30:53] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-14 19:32:01] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-14 19:32:01] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-14 19:32:01] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-14 19:32:14] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-14 19:32:14] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-14 19:32:14] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-14 19:32:14] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-14 19:32:14] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-14 19:32:14] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 12:06:36] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 12:06:36] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 12:06:36] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 12:06:36] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 12:06:36] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 12:06:36] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:41:38] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:41:38] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:41:38] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:41:38] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:41:38] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:42:07] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:42:07] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:42:07] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:42:07] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:42:07] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:42:20] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:42:20] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:42:20] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:42:20] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:42:20] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:42:29] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:42:29] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:42:29] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:42:29] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:42:29] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:45:33] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:45:33] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:45:33] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:45:33] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:45:33] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:50:11] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:50:11] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:50:11] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:50:11] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:50:11] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:54:42] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:54:42] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:54:42] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:54:42] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:54:42] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:55:13] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:55:13] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:55:13] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:55:13] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:55:13] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:55:48] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:55:48] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:55:48] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:55:48] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:55:48] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:56:50] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:56:50] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:56:50] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:56:50] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:56:50] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:58:26] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:58:27] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:58:27] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:58:27] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:58:27] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:58:46] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:58:46] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:58:46] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:58:46] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:58:46] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:59:21] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:59:21] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:59:21] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:59:21] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:59:21] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 16:59:55] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 16:59:55] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 16:59:55] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 16:59:55] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 16:59:55] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 17:01:40] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 17:01:40] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 17:01:40] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 17:01:40] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 17:01:40] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 17:02:49] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 17:02:49] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 17:02:49] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 17:02:49] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 17:02:49] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 17:02:50] [DEBUG] [main] BaseTest - 6
+[2025-02-15 17:04:29] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 17:04:29] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 17:04:30] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 17:04:30] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 17:04:30] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 17:04:30] [DEBUG] [main] BaseTest - 6
+[2025-02-15 17:04:53] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 17:04:53] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 17:04:53] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 17:04:53] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 17:04:53] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 18:18:30] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 18:18:30] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 18:18:30] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 18:18:30] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 18:18:30] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 18:19:38] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 18:19:38] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 18:19:38] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 18:19:38] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 18:19:38] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 18:30:33] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 18:30:33] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 18:30:33] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 18:30:33] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 18:30:33] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 18:32:43] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 18:32:43] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 18:32:43] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 18:32:43] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 18:32:43] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 18:33:17] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 18:33:17] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 18:33:17] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 18:33:17] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 18:33:17] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-15 18:33:43] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-15 18:33:43] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-15 18:33:43] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-15 18:33:43] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-15 18:33:43] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 14:03:37] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 14:03:37] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 14:03:38] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 14:03:38] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 14:03:38] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 14:04:17] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 14:04:17] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 14:04:17] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 14:04:17] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 14:04:17] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 14:27:37] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 14:27:37] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 14:27:37] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 14:27:37] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 14:27:37] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 14:37:28] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 14:37:28] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 14:37:28] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 14:37:28] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 14:37:28] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 14:38:55] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 14:38:55] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 14:38:55] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 14:38:55] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 14:38:55] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:09:13] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:09:13] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:09:13] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:09:13] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:09:13] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:09:34] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:09:34] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:09:34] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:09:34] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:09:34] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:10:04] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:10:04] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:10:04] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:10:04] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:10:04] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:10:32] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:10:32] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:10:33] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:10:33] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:10:33] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:17:44] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:17:44] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:17:44] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:17:44] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:17:44] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:19:04] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:19:04] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:19:04] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:19:04] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:19:04] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:19:46] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:19:46] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:19:46] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:19:46] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:19:46] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:20:41] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:20:41] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:20:41] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:20:41] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:20:41] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:21:49] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:21:49] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:21:49] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:21:49] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:21:49] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:39:43] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:39:43] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:39:43] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:39:43] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:39:43] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:42:03] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:42:03] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:42:03] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:42:03] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:42:03] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:42:23] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:42:23] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:42:23] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:42:23] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:42:23] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:42:42] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:42:42] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:42:42] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:42:42] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:42:42] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:43:13] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:43:13] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:43:13] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:43:13] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:43:13] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:43:40] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:43:40] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:43:40] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:43:40] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:43:40] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:45:41] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:45:41] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:45:41] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:45:41] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:45:41] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:46:17] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:46:17] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:46:17] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:46:17] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:46:17] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-16 15:47:24] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-16 15:47:24] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-16 15:47:24] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-16 15:47:24] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-16 15:47:24] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-17 11:40:51] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-17 11:40:51] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-17 11:40:52] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-02-17 11:40:52] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-02-17 11:40:52] [DEBUG] [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[2025-02-17 11:40:52] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-17 11:40:52] [INFO] [main] BaseTest - Base URL is : https://monday.com
+[2025-02-17 11:40:52] [DEBUG] [main] BaseTest - Debug logging is enabled
+[2025-02-17 11:40:52] [INFO] [main] BaseTest - Base URL is : https://monday.com
