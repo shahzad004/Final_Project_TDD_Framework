@@ -11,7 +11,8 @@ public class JavaPractice {
         System.out.println(cal.sum(10.2,9,90));
         System.out.println(cal.sum(12,32.0));
 
-
+        System.out.println(cal.sub(10,5));
+        System.out.println(cal.sub(40,90,100));
 
 
 
