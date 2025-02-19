@@ -1,14 +1,16 @@
 package tests;
 
-public class JavaPractice {
+public class JavaPractice extends Calculator implements  JavaInterface{
 
     public static void main(String[] args) {
 
-        Calculator cal=new Calculator();
+        int a = 10;
 
-        System.out.println(cal.sum(100,30));
-        System.out.println(cal.sub(100,50));
-        System.out.println(cal.sub(300,100));
+        System.out.println(sum(100,30));
+        System.out.println(sum(100,50,100));
+
+        System.out.println(b);
+
 
     }
 

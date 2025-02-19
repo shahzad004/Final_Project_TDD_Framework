@@ -3,13 +3,13 @@ package tests;
 public class Calculator {
 
 
+        public   int a =10;
 
-
-    int sum(int x, int y){
+    static int sum(int x, int y){
         return x+y;
     }
 
-    int sum(int x, int y, int z){
+     protected static int sum(int x, int y, int z){
         return x+y+z;
     }
 
